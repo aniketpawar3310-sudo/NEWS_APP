@@ -1,4 +1,4 @@
-# NEWS_APP
+# NEWS_APP shadow
 # News Web App with Flask and NewsAPI
 
 Keep yourself updated with the latest news! This project is a simple news web app built using Flask, a Python web framework, and the NewsAPI service, which provides access to news articles from various sources. You can search for news articles by keywords and read the latest headlines.
